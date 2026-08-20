@@ -90,4 +90,4 @@ doesn't persist there. This app uses `@libsql/client`, which speaks SQLite eithe
 ## Notes
 
 - This is a demo-oriented setup (no auth / single shared workspace). For a multi-user deployment
-  you'd add auth and scope meetings per user.
+  I'd add auth and scope meetings per user.
